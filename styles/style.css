@@ -1,0 +1,80 @@
+.header{
+    /* background-image: url(../styles/resources/Rectangle\ 15.png);
+    background-image: url(../styles/resources/Banner\ Image.png); */
+    /* background-repeat: no-repeat;
+    background-position: center;
+    background-size: 600px;
+    padding: 16px;
+    border-radius: 16px; */
+}
+.container{
+    /* background-image: url(../styles/resources/Rectangle\ 15.png); */
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    background-image: url(../styles/resources/Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 80%;
+    max-width: 1320px;
+    margin: 50px auto;
+}
+.banner-text h2{
+    color: #FFF;
+    padding-top: 170px;
+    /* padding-bottom: 383px; */
+text-align: center;
+font-family: 'Merriweather', serif;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.banner-text h1{
+    color: #FFF;
+    padding-bottom: 233px;
+    /* padding-bottom: 177px; */
+text-align: center;
+font-family: Merriweather, serif;
+;
+font-size: 72px;
+font-style: italic;
+font-weight: 900;
+line-height: 95px; /* 131.944% */
+}
+h3{
+    color: #F00;
+text-align: center;
+font-family: Inter, sans-serif;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.holiday{
+    color: #F00;
+text-align: center;
+font-family: Inter, sans-serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.catagories{
+    color: #070211;
+text-align: center;
+font-family: Inter, sans-serif;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+img{
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 500px;
+    width: 802.9px;
+    /* flex-shrink: 0; */
+    margin: 50px auto;
+}
