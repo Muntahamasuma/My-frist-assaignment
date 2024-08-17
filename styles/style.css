@@ -113,6 +113,11 @@ text-transform: uppercase;
 border-style: none;
 cursor: pointer;
 }
+.flexed-div{
+    display: flex;
+    margin: auto;
+    gap: 30px;
+}
 #column{
     width: 80%;
     max-width: 1320px;
