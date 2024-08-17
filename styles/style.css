@@ -140,7 +140,30 @@ line-height: normal;
 text-transform: capitalize;
 text-align: left;
 }
+#title-h4{
 
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+text-align: center;
+}
+
+.holiday-sale{
+    color: #F00;
+}
+
+.p{
+    color: #969696;
+    text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
 #column p{
     color: rgba(7, 2, 17, 0.60);
 font-family: Inter;
@@ -181,4 +204,13 @@ line-height: 32px; /* 160% */
 .second img{
     width: 100%; 
     border-radius: 16px;
+}
+.title{
+    color: rgba(4, 0, 12, 0.6);
+font-family: Inter;
+text-align: center;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
 }
